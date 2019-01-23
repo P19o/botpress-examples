@@ -1,0 +1,9 @@
+{
+"version": 2,
+    "name": "px12q",
+    "builds": [
+        { "src": "*.js", "use": "@now/nodejs" },
+       
+	    
+	]
+	}
